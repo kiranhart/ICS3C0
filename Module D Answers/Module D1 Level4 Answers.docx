@@ -23,3 +23,7 @@
    
 5. 'Version Control' -> Github will keep every single update you make to a file or to your repository. Like if you add a person to the repository to make edits
    Github will log that, if you create a new paragraph of text, it will save the old one and the new one.
+   
+6. 'Distributed Access' -> Distributed Access Control System (DACS)[1] is a light-weight single sign-on and attribute-based access control system for web servers and server-based software. (Wikipedia) 
+    -> My Explanation: Github distributed access will be used in the course because all the files are being shared throughout the web service. Github is controlled by some system, most likely custom coded
+       which then allows users to signup and create new code repositories.
