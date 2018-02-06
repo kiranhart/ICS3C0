@@ -13,3 +13,13 @@
    for others to pull it and for them to work on it. If there is an error in a new build, the VCS keeps copies of every single change may it just be adding a space
    and they highlight and point it out. This will be helpful in this class because as new developers this would be helpful because if we manage to make a mistake
    we can always go back to an old version to check where we went wrong. It also allows the teacher to view any changes that we may have done.
+
+3. 'Collabration' -> Github will help the teacher collabrate with us because of easy it is to use. If we are having lots of trouble we could show the teacher
+   the code, are they could help us. When working in a group pushing commits to Github will allow our members to see our code and they could learn or improve on 
+   it. When they need to see something, they could because it's always online.
+   
+4. 'Backup' -> Github will keep backups of every single file and edit you make. These are called commits; commits declare and state all the changes you made 
+   to any given file at a time. It could be anything from adding a space, to creating or deleting an entire file.
+   
+5. 'Version Control' -> Github will keep every single update you make to a file or to your repository. Like if you add a person to the repository to make edits
+   Github will log that, if you create a new paragraph of text, it will save the old one and the new one.
