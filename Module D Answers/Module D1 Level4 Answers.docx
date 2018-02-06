@@ -1,1 +1,15 @@
+=============== Version Control Systems ===============
+<!-- BTW I believe BitBucket is better than Github (personal prefernce) -->
 
+1. Main features of a Version Control System
+  a) Atomic Operations -> This means when the user makes a edit, and they want to save it, it makes a group of the final changes for the commit
+  b) Version Archive -> Basically what this means is that, say you have a java class named Cookie.java and you make a change adding how large the cookie is, and commit it,
+     the VCS will save the new update as a commit and the old one, so you can go visit the old one and the new one.
+  c) File Locking -> This means that if a user is editing a file, only they can edit it with write access at the time, until they are finished, no one else can write access it.
+  d) Integration -> I have experience with this personally, when I do have my code on BitBucket, I have Intellij pull and push any commits / updates
+    that I may have done, so others can see.
+    
+2. VCS is usually used by software engineers and developers because of how useful it is. It allows them to push updates they made maybe to a group project
+   for others to pull it and for them to work on it. If there is an error in a new build, the VCS keeps copies of every single change may it just be adding a space
+   and they highlight and point it out. This will be helpful in this class because as new developers this would be helpful because if we manage to make a mistake
+   we can always go back to an old version to check where we went wrong. It also allows the teacher to view any changes that we may have done.
