@@ -1,5 +1,5 @@
 '''
-                     TIC TAC TOE
+                        TIC TAC TOE
 This is a Console Tic Tac Toe Game made by Kiran Hart.
 '''
 
