@@ -1,3 +1,8 @@
+'''
+                    TIC TAC TOE
+This is a Console Tic Tac Toe Game made by Kiran Hart.
+'''
+
 import time
 import random
 
